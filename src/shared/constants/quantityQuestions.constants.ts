@@ -1,0 +1,1 @@
+export const MAX_QUANTITY_QUESTIONS_ANSWERED = 10;
